@@ -1,0 +1,8 @@
+{
+    "name": "zahnentechnik/zrxp",
+    "type": "library",
+    "description": "A library for converting data to ZRXP format",
+    "require": {
+        "php": "8.3.*"
+    }
+}
