@@ -4,5 +4,7 @@ services:
     image: php:8.3-apache
     volumes:
       - ./public:/var/www/html
+      - ./src:/var/www/src
+      - ./vendor:/var/www/vendor
     ports:
       - 8080:80
