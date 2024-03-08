@@ -61,3 +61,8 @@ $fileContent = $encoder->encode($data);
 // write the file or do whatever you want with the content
 file_put_contents('output.zrxp', $fileContent);
 ```
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+```
