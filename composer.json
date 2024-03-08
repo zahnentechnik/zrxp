@@ -2,6 +2,15 @@
     "name": "zahnentechnik/zrxp",
     "type": "library",
     "description": "A library for converting data to ZRXP format",
+    "authors": [
+        {
+            "name": "Zahnentechnik",
+            "email": "it@zahnen-technik.de",
+            "homepage": "https://zahnen-technik.de",
+            "role": "Owner"
+        }
+    ],
+    "license": "MIT",
     "require": {
         "php": "8.3.*"
     }
